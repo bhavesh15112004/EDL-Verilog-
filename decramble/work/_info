@@ -1,0 +1,86 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/EDL_V1/decramble
+T_opt
+!s110 1769079912
+VV?aReQ2=UAdAGdC5[4QFz2
+Z2 04 17 4 work BB_Descrambler_tb fast 0
+=1-505a6522babf-69720468-2e2-502c
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1769077098
+V[=QU@FfDdQIkRh;VLJP:C3
+04 14 4 work BB_Descrambler fast 0
+R2
+=1-505a6522babf-6971f96a-60-10c8
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+vBB_Descrambler
+Z7 !s110 1769606471
+!i10b 1
+!s100 DDW3V4If7n^5:Fb]LOemZ1
+IKGKe4P:53]490JJWmSzkT2
+R1
+w1769076277
+8D:/EDL_V1/decramble/BB_Descrambler.v
+FD:/EDL_V1/decramble/BB_Descrambler.v
+!i122 15
+L0 24 43
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1769606471.000000
+!s107 D:/EDL_V1/decramble/tb_BB_Descrambler.v|D:/EDL_V1/decramble/BB_Descrambler.v|
+Z11 !s90 -reportprogress|300|-work|work|D:/EDL_V1/decramble/BB_Descrambler.v|D:/EDL_V1/decramble/tb_BB_Descrambler.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@b@b_@descrambler
+vBB_Descrambler_tb
+R7
+!i10b 1
+!s100 TVZbTUe^lH5K=cmc4]`571
+IA^J7K=0dNeQ7ok7QT6hk00
+R1
+w1769080261
+8D:/EDL_V1/decramble/tb_BB_Descrambler.v
+FD:/EDL_V1/decramble/tb_BB_Descrambler.v
+!i122 15
+L0 3 79
+R8
+R9
+r1
+!s85 0
+31
+R10
+Z13 !s107 D:/EDL_V1/decramble/tb_BB_Descrambler.v|D:/EDL_V1/decramble/BB_Descrambler.v|
+R11
+!i113 0
+R12
+R5
+n@b@b_@descrambler_tb
